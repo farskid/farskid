@@ -1,4 +1,4 @@
-Howdy :wave!
+Howdy :wave:!
 
 I'm Farzad and I'm a Lead Engineer at [Stately](https://stately.ai) and living in Finland.
 
